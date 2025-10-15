@@ -3,6 +3,10 @@ body {
     color: #0dd168;
 }
 
+.text-color {
+    color: #0dd168;
+}
+
 nav {
     background-color: #009ac9;
     margin-bottom: 20px;
@@ -56,4 +60,10 @@ footer {
 
 }
 
+table td:hover {
+    background-color: rbga(39, 125, 121, 1);
+}
 
+th, td {
+    padding: 15px
+}

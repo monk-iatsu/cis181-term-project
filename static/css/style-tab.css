@@ -6,4 +6,8 @@
     .nav-pills.card-header-tabs {
         flex-direction: column;
     }
+
+    .phone-link {
+        display: none;
+    }
 }
