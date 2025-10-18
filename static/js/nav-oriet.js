@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const tabsElement = document.getElementById('myTabs');
-  const mediaQuery = window.matchMedia('(max-width: 600px)');
+  const mediaQuery = window.matchMedia('(max-width: 599px)');
 
   function handleOrientationChange(event) {
     if (event.matches) {
