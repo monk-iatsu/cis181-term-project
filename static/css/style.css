@@ -31,6 +31,8 @@ nav {
     color : #11122b;
     font-weight: bolder;
     font-size: 1.25em;
+    border: .25em solid black;
+    border-radius: 10%;
 }
 
 .nav-active-custom:hover {
