@@ -1,9 +1,13 @@
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 425px) {
     body {
         font-size: 12px;
     }
     
     .phone-display {
         display: none;
+    }
+
+    .phone-link {
+        display: block;
     }
 }

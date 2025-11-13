@@ -6,5 +6,9 @@
     .phone-link {
         display: none;
     }
+
+    .phone-display {
+        display: block;
+    }
     
 }

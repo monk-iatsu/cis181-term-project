@@ -23,8 +23,7 @@ nav {
 
 .nav-link-custom:hover {
     color: #262bcc;
-    font-weight: bolder;
-    font-size: 1.10em;
+    transform: scale(1.2);
 }
 
 .nav-active-custom {
@@ -37,8 +36,7 @@ nav {
 
 .nav-active-custom:hover {
     color : #262bcc;
-    font-weight: bolder;
-    font-size: 1.5em;
+    transform: scale(1.2);
 }
 
 header h1 {
