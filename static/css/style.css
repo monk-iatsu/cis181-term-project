@@ -79,3 +79,11 @@ th, td {
 .music-border {
     border: solid 3px #009ac9;
 }
+
+.link {
+    color: #0fc991;
+}
+
+.link:hover {
+    color: #086b4d;
+}
